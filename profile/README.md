@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-	<img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3"></img>
+	<a href="https://discord.gg/v8m9cRRjqC">
+		<img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3"></img>
+	</a>
 </p>
 
 If you have any issue, make sure to check all recent issues (in repository's Issues section) that if someone has the same problem or not. If you found nothing, feel free to create a new issue. Make sure you to provide all the steps to cause the problem, and we'll fix it as soon as possible.
