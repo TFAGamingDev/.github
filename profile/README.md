@@ -12,5 +12,5 @@
 </p>
 
 
-**Leader**: [TFAGaming](https://www.github.com/TFAGaming)
+**Leader**: [TFAGaming](https://www.github.com/TFAGaming)<br>
 **npm**: https://www.npmjs.com/org/tfadev
