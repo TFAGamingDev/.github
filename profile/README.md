@@ -11,6 +11,6 @@
 	</a>
 </p>
 
-If you have any issue, make sure to check all recent issues (in repository's Issues section) that if someone has the same problem or not. If you found nothing, feel free to create a new issue. Make sure you to provide all the steps to cause the problem, and we'll fix it as soon as possible.
 
-If you have any idea or have a bug fix from an issue, feel free to create a new pull request in a repository's Pull requests section.
+**Leader**: [TFAGaming](https://www.github.com/TFAGaming)
+**npm**: https://www.npmjs.com/org/tfadev
