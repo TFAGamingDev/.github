@@ -12,5 +12,5 @@
 </p>
 
 
-**Leader**: [TFAGaming](https://www.github.com/TFAGaming)<br>
-**npm**: https://www.npmjs.com/org/tfadev
+**T.F.A 7524 - Development** is a small and public Discord community that started on December 9th, 2021. We develop open-source Discord bot projects and libraries on npm.<br>
+The programming languages that we use are **TypeScript** and **JavaScript**, other languages are not in use for this organization.
